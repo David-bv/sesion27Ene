@@ -1,0 +1,46 @@
+.cardSection {
+    background-color: blueviolet;
+    width: 100vw;
+    height: auto;
+}
+
+.card > img {
+    width: 100%;
+    height: 40vh;
+}
+
+.card {
+    width: 80%;
+    border: red;
+    background-color: aqua;
+
+    margin: 20px auto;
+}
+
+.card-text {
+    height: auto;
+}
+
+#form {
+    width: 50%;
+    margin: 10px auto;
+}
+
+.btn-primary {
+    background-color: lightseagreen;
+    border: lightseagreen;
+    color: linen;
+}
+
+.list-group-item {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.list-group-item img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    margin: 0 auto;
+}

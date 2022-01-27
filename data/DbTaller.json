@@ -1,0 +1,46 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "imagen": "https://img.animeflv.cc/cover/samurai-x-the-motion-picture.jpg",
+      "nombre": "Samurai X The Motion Picture",
+      "genero": "Drama, Historico, Samurai, Shounen",
+      "descripcion": "La película empieza con un Flashback en plena guerra de restauración. Un grupo de samuráis de Shogun ataca a un puesto neurálgico de los Ishin Shishi, el ejercito rebelde ,liderados por el joven Gentatsu Takasugi."
+    },
+    {
+      "id": 2,
+      "imagen": "https://img.animeflv.cc/cover/kono-subarashii-sekai-ni-shukufuku-wo.jpg",
+      "nombre": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "genero": "Aventuras, ComediaFantasíaSo, brenatural",
+      "descripcion": "Esta popular comedia de mundos alternativos gira en torno a Kazuma Satou, un hikkikomori fan a muerte de los videojuegos, el anime y el manga. Un accidente de tráfico pone fin a su vida… o eso debería haber pasado, pero se despierta con una preciosa chica al lado que se presenta diciendo que es una diosa."
+    },
+    {
+      "id": 3,
+      "imagen": "https://img.animeflv.cc/cover/tate-no-yuusha-no-nariagari.jpg",
+      "nombre": "Tate no Yuusha no Nariagari",
+      "genero": "Acción, Aventuras, Comedia, Drama, Fantasía, Romance, Seinen",
+      "descripcion": "Iwatani Naofumi es el típico otaku, al menos hasta que un día encuentra en la biblioteca un libro que lo transporta a otro mundo. Allí se convertirá en el Héroe del Escudo, uno de los Cuatro Héroes Cardinales, y tendrá que luchar contra las Olas de la Catástrofe junto a los héroes de la espada, la lanza y el arco."
+    },
+    {
+      "id": 4,
+      "imagen": "https://img.animeflv.cc/cover/mazinkaiser-skl.jpg",
+      "nombre": "Mazinkaiser SKL",
+      "genero": "Aventura, sCiencia Ficción, Comedia, Mecha, Shounen",
+      "descripcion": "Antes de los eventos del anime, las tres facciones - Garan del Ejército, el Ejército de Kiba, y el Hachiryokaku (Aira Ejército), la batalla por el dominio total de una isla sin nombre que ocupan. La isla es básicamente una cárcel, aislado del resto del mundo."
+    },
+    {
+      "id": 5,
+      "imagen": "https://img.animeflv.cc/cover/arifureta-shokugyou-de-sekai-saikyou.jpg",
+      "nombre": "Arifureta Shokugyou de Sekai Saikyou",
+      "genero": "Acción, Aventuras, Fantasía, Harem",
+      "descripcion": "Hajime Nagumo es un otaku promedio de diecisiete años. Sin embargo, su vida cambia totalmente cuando él y el resto de su clase, son convocado a un mundo de fantasía. Son tratados como héroes y tienen la tarea de salvar a la raza humana de la extinción total."
+    },
+    {
+      "imagen": "https://img.animeflv.cc/cover/dr-stone.jpg",
+      "nombre": "Dr. Stone",
+      "genero": "Aventuras, Ciencia Ficción, Shounen",
+      "descripcion": "Senku  es un joven extremadamente inteligente con un gran don para la ciencia y una ácida personalidad, y su mejor amigo es Taiju, que es muy buena persona pero más apto para usar los músculos que para pensar.",
+      "id": 6
+    }
+  ]
+}

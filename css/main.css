@@ -1,5 +1,22 @@
+body{
+    background: linear-gradient(to right, #4cb8c4, #3cd3ad);
+}
+
+.navbar {
+    background: linear-gradient(to right, #02aab0, #00cdac);
+}
+
+.navbar-brand {
+    color: white!important;
+}
+
+.nav-link {
+    color: white!important;
+}
+
 .cardSection {
-    background-color: blueviolet;
+    margin-top: 15px;
+    margin-bottom: 30px;
     width: 100vw;
     height: auto;
 }
@@ -10,19 +27,13 @@
 }
 
 .card {
-    width: 80%;
+    width: 85%;
     border: red;
-    background-color: aqua;
-
     margin: 20px auto;
 }
 
-.card-text {
-    height: auto;
-}
-
 #form {
-    width: 50%;
+    width: 95%;
     margin: 10px auto;
 }
 
@@ -34,7 +45,9 @@
 
 .list-group-item {
     width: 50%;
-    margin: 0 auto;
+    margin: 15px auto;
+    border-radius: 10px;
+    min-width: 350px;
 }
 
 .list-group-item img {
@@ -43,4 +56,31 @@
     height: 150px;
     display: flex;
     margin: 0 auto;
+    
+}
+
+.formSection {
+    margin-top: 25px;
+}
+
+.formSection hr {
+    margin-top: 20px;
+}
+
+.formDiv{
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: 50%;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-radius: 5px;
+    padding-bottom: 25px;
+    min-width: 350px;
+}
+
+.titleP {
+    color: white;
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+
 }

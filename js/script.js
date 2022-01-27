@@ -1,37 +1,3 @@
-/*bro ya termine q mas hago?
-pues no se, flata el boton de borrar y no s eporque no me esta actualizando luego dar formato y 
-gg si quieres yo me encargo de eso, lo unico seria dejar las descripciones algo mas corticas de resto relax
-o que opinas
-ok ya las resumo
-asi o mas resumido?
-depronto otro poco y ya
-ok
-asi o mas?
-así esta perfecto
-ya todo el  crud fnciona si quieres puedes probar :)
-mandame el repositorio
-bro mi nombre es carlos armando medina ramirez
-ya o cuando lo termine? 
-si quieres cuando lo termine
-q mas hago?
-Falta solo hacer el css darle formato y enviar
-mm el problema es q como estoy en la web no funciona live server
-estas teniendo problemas para subirlo cierto?
-bro es normal q pueda ver todo lo q estas haciendo en el visual
-incluyendo la consola?
-para el push 
-
-listo 
-https://github.com/David-bv/sesion27Ene.git
-gracias bro
-hay q llenar el formulario q mando la profe cierto?
-si
-es uno x grupo o hay q hacer uno para cada uno?
-tu tienes el link o lo busco?
-unop por grupo creo asi fue el pasado
-aah ok
-Listo que tal, lo enviamos así?
-*/
 
 import { url as enlace } from "./url.js";
 
